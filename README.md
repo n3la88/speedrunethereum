@@ -9,6 +9,7 @@
 🎫 Create a simple NFT to learn the basics of 🏗 scaffold-eth. You'll use 👷‍♀️ HardHat to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
 
 
+https://github.com/n3la88/challenge-0-simple-nft
 
 ---
 

@@ -17,6 +17,7 @@ https://github.com/n3la88/challenge-0-simple-nft
 
 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
 
+https://github.com/n3la88/challenge-1-decentralized-staking
 
 ---
 
@@ -24,6 +25,7 @@ https://github.com/n3la88/challenge-0-simple-nft
 
 🤖 Smart contracts are kind of like "always on" vending machines that anyone can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.
 
+https://github.com/n3la88/challenge-2-token-vendor
 
 ---
 
@@ -31,6 +33,7 @@ https://github.com/n3la88/challenge-0-simple-nft
 
 🎰 Randomness is tricky on a public deterministic blockchain. In this challenge you will explore creating random numbers using block hash and how that may be exploitable. Attack the dice game with your own contract by predicting the randomness ahead of time to always roll a winner!
 
+Working on it
 
 ---
 
@@ -39,6 +42,7 @@ https://github.com/n3la88/challenge-0-simple-nft
 💵 Build an exchange that swaps ETH to tokens and tokens to ETH. 💰 This is possible because the smart contract holds reserves of both assets and has a price function based on the ratio of the reserves. Liquidity providers are issued a token that represents their share of the reserves and fees...
 
 
+Working on it
 
 ---
 
@@ -47,6 +51,7 @@ https://github.com/n3la88/challenge-0-simple-nft
 
 🛣️ The Ethereum blockchain has great decentralization & security properties but these properties come at a price: transaction throughput is low, and transactions can be expensive. This makes many traditional web applications infeasible on a blockchain... or does it? State channels look to solve these problems by allowing participants to securely transact off-chain while keeping interaction with Ethereum Mainnet at a minimum.
 
+Working on it
 
 ---
 

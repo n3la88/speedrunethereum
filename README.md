@@ -2,14 +2,17 @@
 
 **Learn how to use 🏗 Scaffold-ETH 2 to create decentralized applications on Ethereum. 🚀**
 
+https://speedrunethereum.com/
+
 ---
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
 
 🎫 Create a simple NFT to learn the basics of 🏗 scaffold-eth. You'll use 👷‍♀️ HardHat to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
 
-
-https://github.com/n3la88/challenge-0-simple-nft
+GitHub project: [https://github.com/](https://github.com/n3la88/challenge-0-simple-nft)
+Contract address deployed on the Sepolia testnet: https://sepolia.etherscan.io/address/0xF20D1c526A3b45aC3146598b1C8Cd2aCfB30f903
+Production environment URL of the dApp: https://challenge-0-simple-nft-ochre-gamma.vercel.app/
 
 ---
 
